@@ -1,0 +1,7 @@
+not1 = int(input("1.SAYINIZI GİRİNİZ : \t"))
+not2 = int(input("2.SAYINIZI GİRİNİZ : \t"))
+not3 = int(input("3.SAYINIZI GİRİNİZ : \t"))
+
+toplam = not1 + not2 + not3
+
+print("TOPLAM : ",toplam)
